@@ -14,20 +14,20 @@ const options = {
 
 // Text + chalk definitions
 const data = {
-  name: chalk.white('Stefan Natter'),
-  handle: chalk.cyan('@natterstefan'),
+  name: chalk.white('Joeri Rietjesn'),
+  handle: chalk.cyan('@joeririetjens'),
   labelWork: chalk.white.bold('      Work:'),
-  work: chalk.white('CEO and Co-Founder of marqant digital'),
+  work: chalk.white('CEO and Co-Founder of CoffeeBay'),
   labelTwitter: chalk.white.bold('   Twitter:'),
-  twitter: chalk.cyan('https://twitter.com/natterstefan'),
+  twitter: chalk.cyan('https://twitter.com/joeririetjens'),
   labelGitHub: chalk.white.bold('    GitHub:'),
-  github: chalk.cyan('https://github.com/natterstefan'),
+  github: chalk.cyan('https://github.com/joeririetjens'),
   labelLinkedIn: chalk.white.bold('  LinkedIn:'),
-  linkedin: chalk.cyan('https://linkedin.com/in/natterstefan'),
+  linkedin: chalk.cyan('https://linkedin.com/in/joeririetjens'),
   labelWeb: chalk.white.bold('       Web:'),
-  web: chalk.cyan('https://natterstefan.com'),
+  web: chalk.cyan('https://joeririetjens.com'),
   labelCard: chalk.white.bold('      Card:'),
-  npx: chalk.white('npx natterstefan'),
+  npx: chalk.white('npx joeririetjens'),
 }
 
 // Actual strings we're going to output
