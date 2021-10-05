@@ -14,7 +14,7 @@ const options = {
 
 // Text + chalk definitions
 const data = {
-  name: chalk.white('Joeri Rietjesn'),
+  name: chalk.white('Joeri Rietjens'),
   handle: chalk.cyan('@joeririetjens'),
   labelWork: chalk.white.bold('      Work:'),
   work: chalk.white('CEO and Co-Founder of CoffeeBay'),
