@@ -18,7 +18,7 @@ const data = {
   handle: chalk.cyan('@joeririetjens'),
   email: chalk.white('joeririetjens@gmail.com')
   labelWork: chalk.white.bold('      student:'),
-  student: chalk.white('Fontys ICT Eindhoven'),
+  work: chalk.white('Fontys ICT Eindhoven'),
   labelGitHub: chalk.white.bold('    GitHub:'),
   github: chalk.cyan('https://github.com/joeririetjens'),
   labelLinkedIn: chalk.white.bold('  LinkedIn:'),
