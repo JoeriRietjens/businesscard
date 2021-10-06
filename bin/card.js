@@ -16,16 +16,13 @@ const options = {
 const data = {
   name: chalk.white('Joeri Rietjens'),
   handle: chalk.cyan('@joeririetjens'),
-  labelWork: chalk.white.bold('      Work:'),
-  work: chalk.white('CEO and Co-Founder of CoffeeBay'),
-  labelTwitter: chalk.white.bold('   Twitter:'),
-  twitter: chalk.cyan('https://twitter.com/joeririetjens'),
+  email: chalk.white('joeririetjens@gmail.com')
+  labelWork: chalk.white.bold('      student:'),
+  student: chalk.white('Fontys ICT Eindhoven'),
   labelGitHub: chalk.white.bold('    GitHub:'),
   github: chalk.cyan('https://github.com/joeririetjens'),
   labelLinkedIn: chalk.white.bold('  LinkedIn:'),
   linkedin: chalk.cyan('https://linkedin.com/in/joeririetjens'),
-  labelWeb: chalk.white.bold('       Web:'),
-  web: chalk.cyan('https://joeririetjens.com'),
   labelCard: chalk.white.bold('      Card:'),
   npx: chalk.white('npx joeririetjens'),
 }
